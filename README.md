@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou @gean-damaceno
-- 👀 Tenho interesse em R, Python e análise de dados
+- 👀 Tenho interesse em R, Python, análise de dados e matemática
 - 🌱 Atualmente, estou aprendendo mais sobre modelagem estatística, ciência de dados e visualização de dados
 - 💞️ Estou buscando colaborar em projetos de análise de dados, estatística e desenvolvimento em R e Python
 - 📫 Você pode me contatar através do GitHub ou LinkedIn
